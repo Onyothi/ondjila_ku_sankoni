@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+	{
+	    "type": "Feature",
+	    "geometry": {
+		"type": "Point",
+		"coordinates": [0.95305805738, 36.76939206190]
+	    },
+	    "properties": {
+		"name": "Kisima"
+	    }
+	},
+	{
+	    "type": "Feature",
+	    "geometry": {
+		"type": "Point",
+		"coordinates": [1.02491256956, 36.58972900460]
+	    },
+	    "properties": {
+		"name": "unknown"
+	    }
+	},
+	{
+	    "type": "Feature",
+	    "geometry": {
+		"type": "Point",
+		"coordinates": [1.05185760165, 36.65261107510]
+	    },
+	    "properties": {
+		"name": "unknown"
+	    }
+	},
+	{
+	    "type": "Feature",
+	    "geometry": {
+		"type": "Point",
+		"coordinates": [1.06083922805, 36.69752683880]
+	    },
+	    "properties": {
+		"name": "unknown"
+	    }
+	},
+	{
+	    "type": "Feature",
+	    "geometry": {
+		"type": "Point",
+		"coordinates": [1.21352270311, 36.60769531060]
+	    },
+	    "properties": {
+		"name": "Poro"
+	    }
+	}
+    ]
+}
